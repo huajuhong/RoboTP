@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace RoboTP.Domain
 {
+    /// <summary>
+    /// 项目
+    /// </summary>
     public class Program
     {
         public string Name { get; set; }
