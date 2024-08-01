@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoboTP", "RoboTP\RoboTP.csproj", "{9ED5F765-E009-47F1-9EDF-B2FB76964487}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DriverBase", "DriverBase\DriverBase.csproj", "{8E238091-59AC-4684-9925-9CBDB788E251}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoboTP.Domain", "RoboTP.Domain\RoboTP.Domain.csproj", "{E1646EC5-4AD2-4FCD-9C9A-A26969DA77CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED5F765-E009-47F1-9EDF-B2FB76964487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED5F765-E009-47F1-9EDF-B2FB76964487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED5F765-E009-47F1-9EDF-B2FB76964487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED5F765-E009-47F1-9EDF-B2FB76964487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E238091-59AC-4684-9925-9CBDB788E251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E238091-59AC-4684-9925-9CBDB788E251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E238091-59AC-4684-9925-9CBDB788E251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E238091-59AC-4684-9925-9CBDB788E251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1646EC5-4AD2-4FCD-9C9A-A26969DA77CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1646EC5-4AD2-4FCD-9C9A-A26969DA77CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1646EC5-4AD2-4FCD-9C9A-A26969DA77CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1646EC5-4AD2-4FCD-9C9A-A26969DA77CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E148B0C-9D60-455C-8E70-C520E27DFAF4}
+	EndGlobalSection
+EndGlobal
